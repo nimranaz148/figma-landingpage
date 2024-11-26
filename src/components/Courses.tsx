@@ -1,5 +1,5 @@
 import React from 'react'
-import Image from 'next/image';
+
 import CourcesCards from './CourcesCards';
 import { Button } from './ui/button';
 
